@@ -23,6 +23,7 @@ namespace ServerlessPerf
 
             var connectionString = configuration["Azure:SignalR:ConnectionString"];
 
+
             if (string.IsNullOrEmpty(connectionString))
             {
                 throw new ArgumentNullException("Azure:SignalR:ConnectionString");
