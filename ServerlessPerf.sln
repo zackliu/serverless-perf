@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessPerf", "src\ServerlessPerf.csproj", "{DD0A8CF8-CEFA-413D-B0EB-E77A1550C329}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{57AA1C77-F7EE-4E41-A0B6-2D36B54E0ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD0A8CF8-CEFA-413D-B0EB-E77A1550C329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0A8CF8-CEFA-413D-B0EB-E77A1550C329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0A8CF8-CEFA-413D-B0EB-E77A1550C329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0A8CF8-CEFA-413D-B0EB-E77A1550C329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DD0A8CF8-CEFA-413D-B0EB-E77A1550C329} = {57AA1C77-F7EE-4E41-A0B6-2D36B54E0ED6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {161E0C9E-6B54-4128-B6DB-1B458EAA3114}
+	EndGlobalSection
+EndGlobal
